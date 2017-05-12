@@ -1,0 +1,6 @@
+idea
+
+venv-ng-twit
+*.pyc
+current_user_credentials.json
+
